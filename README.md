@@ -121,7 +121,6 @@ The saving is not "buy less electricity" — total purchases are identical. It i
 |---|---|
 | `Code.py` | reads the input, solves the model, writes the output |
 | `ExampleData.xlsx` | input (Hourly + Parameters) |
-| `ExampleData_v1_backup.xlsx` | the original 6-column dataset, before the fixed/flexible split |
 | `SchedulingResults.xlsx` | generated output (not committed — run the code to create it) |
 
 ```bash
